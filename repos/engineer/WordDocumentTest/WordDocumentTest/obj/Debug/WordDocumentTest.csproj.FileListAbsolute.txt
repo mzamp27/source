@@ -1,0 +1,8 @@
+C:\Users\mzamp\source\repos\WordDocumentTest\WordDocumentTest\obj\Debug\WordDocumentTest.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\WordDocumentTest\WordDocumentTest\obj\Debug\WordDocumentTest.csproj.ResolveComReference.cache
+C:\Users\mzamp\source\repos\WordDocumentTest\WordDocumentTest\obj\Debug\WordDocumentTest.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\WordDocumentTest\WordDocumentTest\bin\Debug\WordDocumentTest.exe.config
+C:\Users\mzamp\source\repos\WordDocumentTest\WordDocumentTest\bin\Debug\WordDocumentTest.exe
+C:\Users\mzamp\source\repos\WordDocumentTest\WordDocumentTest\bin\Debug\WordDocumentTest.pdb
+C:\Users\mzamp\source\repos\WordDocumentTest\WordDocumentTest\obj\Debug\WordDocumentTest.exe
+C:\Users\mzamp\source\repos\WordDocumentTest\WordDocumentTest\obj\Debug\WordDocumentTest.pdb

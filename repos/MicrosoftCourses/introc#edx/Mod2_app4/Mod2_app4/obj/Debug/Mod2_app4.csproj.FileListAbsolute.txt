@@ -1,0 +1,7 @@
+C:\Users\mzamp\source\repos\Mod2_app4\Mod2_app4\bin\Debug\Mod2_app4.exe.config
+C:\Users\mzamp\source\repos\Mod2_app4\Mod2_app4\bin\Debug\Mod2_app4.exe
+C:\Users\mzamp\source\repos\Mod2_app4\Mod2_app4\bin\Debug\Mod2_app4.pdb
+C:\Users\mzamp\source\repos\Mod2_app4\Mod2_app4\obj\Debug\Mod2_app4.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\Mod2_app4\Mod2_app4\obj\Debug\Mod2_app4.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\Mod2_app4\Mod2_app4\obj\Debug\Mod2_app4.exe
+C:\Users\mzamp\source\repos\Mod2_app4\Mod2_app4\obj\Debug\Mod2_app4.pdb

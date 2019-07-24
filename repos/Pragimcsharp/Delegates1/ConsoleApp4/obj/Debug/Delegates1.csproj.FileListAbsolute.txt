@@ -1,0 +1,14 @@
+C:\Users\mzamp\source\repos\Delegates1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\mzamp\source\repos\Delegates1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\mzamp\source\repos\Delegates1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\mzamp\source\repos\Delegates1\ConsoleApp4\obj\Debug\Delegates1.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\Delegates1\ConsoleApp4\obj\Debug\Delegates1.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\Delegates1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\mzamp\source\repos\Delegates1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\ConsoleApp4\obj\Debug\Delegates1.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\ConsoleApp4\obj\Debug\Delegates1.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

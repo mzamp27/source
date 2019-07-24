@@ -1,0 +1,7 @@
+C:\Users\mzamp\source\repos\Mod3_InputLab\Mod3_InputLab\obj\Debug\Mod3_InputLab.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\Mod3_InputLab\Mod3_InputLab\obj\Debug\Mod3_InputLab.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\Mod3_InputLab\Mod3_InputLab\bin\Debug\Mod3_InputLab.exe.config
+C:\Users\mzamp\source\repos\Mod3_InputLab\Mod3_InputLab\bin\Debug\Mod3_InputLab.exe
+C:\Users\mzamp\source\repos\Mod3_InputLab\Mod3_InputLab\bin\Debug\Mod3_InputLab.pdb
+C:\Users\mzamp\source\repos\Mod3_InputLab\Mod3_InputLab\obj\Debug\Mod3_InputLab.exe
+C:\Users\mzamp\source\repos\Mod3_InputLab\Mod3_InputLab\obj\Debug\Mod3_InputLab.pdb

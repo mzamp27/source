@@ -1,0 +1,7 @@
+C:\Users\mzamp\source\repos\Microsoft2Lab\Microsoft2Lab\obj\Debug\Microsoft2Lab.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\Microsoft2Lab\Microsoft2Lab\obj\Debug\Microsoft2Lab.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\Microsoft2Lab\Microsoft2Lab\bin\Debug\Microsoft2Lab.exe.config
+C:\Users\mzamp\source\repos\Microsoft2Lab\Microsoft2Lab\bin\Debug\Microsoft2Lab.exe
+C:\Users\mzamp\source\repos\Microsoft2Lab\Microsoft2Lab\bin\Debug\Microsoft2Lab.pdb
+C:\Users\mzamp\source\repos\Microsoft2Lab\Microsoft2Lab\obj\Debug\Microsoft2Lab.exe
+C:\Users\mzamp\source\repos\Microsoft2Lab\Microsoft2Lab\obj\Debug\Microsoft2Lab.pdb

@@ -1,0 +1,7 @@
+C:\Users\mzamp\source\repos\MicrosoftClass2\MicrosoftClass2\bin\Debug\MicrosoftClass2.exe.config
+C:\Users\mzamp\source\repos\MicrosoftClass2\MicrosoftClass2\bin\Debug\MicrosoftClass2.exe
+C:\Users\mzamp\source\repos\MicrosoftClass2\MicrosoftClass2\bin\Debug\MicrosoftClass2.pdb
+C:\Users\mzamp\source\repos\MicrosoftClass2\MicrosoftClass2\obj\Debug\MicrosoftClass2.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\MicrosoftClass2\MicrosoftClass2\obj\Debug\MicrosoftClass2.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\MicrosoftClass2\MicrosoftClass2\obj\Debug\MicrosoftClass2.exe
+C:\Users\mzamp\source\repos\MicrosoftClass2\MicrosoftClass2\obj\Debug\MicrosoftClass2.pdb

@@ -1,0 +1,10 @@
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\bin\Debug\BasicEventForm.exe.config
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\bin\Debug\BasicEventForm.exe
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\bin\Debug\BasicEventForm.pdb
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\obj\Debug\BasicEventForm.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\obj\Debug\BasicEventForm.Form1.resources
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\obj\Debug\BasicEventForm.Properties.Resources.resources
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\obj\Debug\BasicEventForm.csproj.GenerateResource.cache
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\obj\Debug\BasicEventForm.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\obj\Debug\BasicEventForm.exe
+C:\Users\mzamp\source\repos\BasicEventForm\BasicEventForm\obj\Debug\BasicEventForm.pdb

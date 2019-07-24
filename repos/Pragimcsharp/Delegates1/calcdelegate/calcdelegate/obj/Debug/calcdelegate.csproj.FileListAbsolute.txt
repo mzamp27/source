@@ -1,0 +1,7 @@
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\calcdelegate\calcdelegate\bin\Debug\calcdelegate.exe.config
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\calcdelegate\calcdelegate\bin\Debug\calcdelegate.exe
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\calcdelegate\calcdelegate\bin\Debug\calcdelegate.pdb
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\calcdelegate\calcdelegate\obj\Debug\calcdelegate.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\calcdelegate\calcdelegate\obj\Debug\calcdelegate.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\calcdelegate\calcdelegate\obj\Debug\calcdelegate.exe
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\calcdelegate\calcdelegate\obj\Debug\calcdelegate.pdb

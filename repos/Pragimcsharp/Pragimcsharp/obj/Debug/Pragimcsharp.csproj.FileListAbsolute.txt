@@ -1,0 +1,7 @@
+C:\Users\mzamp\source\repos\Pragimcsharp\Pragimcsharp\obj\Debug\Pragimcsharp.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\Pragimcsharp\Pragimcsharp\obj\Debug\Pragimcsharp.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\Pragimcsharp\Pragimcsharp\bin\Debug\Pragimcsharp.exe.config
+C:\Users\mzamp\source\repos\Pragimcsharp\Pragimcsharp\bin\Debug\Pragimcsharp.exe
+C:\Users\mzamp\source\repos\Pragimcsharp\Pragimcsharp\bin\Debug\Pragimcsharp.pdb
+C:\Users\mzamp\source\repos\Pragimcsharp\Pragimcsharp\obj\Debug\Pragimcsharp.exe
+C:\Users\mzamp\source\repos\Pragimcsharp\Pragimcsharp\obj\Debug\Pragimcsharp.pdb

@@ -1,0 +1,7 @@
+C:\Users\mzamp\source\repos\Mod3_Methods\Mod3_Methods\obj\Debug\Mod3_Methods.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\Mod3_Methods\Mod3_Methods\obj\Debug\Mod3_Methods.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\Mod3_Methods\Mod3_Methods\bin\Debug\Mod3_Methods.exe.config
+C:\Users\mzamp\source\repos\Mod3_Methods\Mod3_Methods\bin\Debug\Mod3_Methods.exe
+C:\Users\mzamp\source\repos\Mod3_Methods\Mod3_Methods\bin\Debug\Mod3_Methods.pdb
+C:\Users\mzamp\source\repos\Mod3_Methods\Mod3_Methods\obj\Debug\Mod3_Methods.exe
+C:\Users\mzamp\source\repos\Mod3_Methods\Mod3_Methods\obj\Debug\Mod3_Methods.pdb

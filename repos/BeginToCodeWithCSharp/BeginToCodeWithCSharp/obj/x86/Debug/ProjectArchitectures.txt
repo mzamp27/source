@@ -1,0 +1,2 @@
+C:\Users\mzamp\source\repos\BeginToCodeWithCSharp\BeginToCodeWithCSharp\BeginToCodeWithCSharp.csproj;x86
+C:\Users\mzamp\source\repos\BeginToCodeWithCSharp\Snaps\Snaps\Snaps.csproj;x86

@@ -1,0 +1,7 @@
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\delpractice1\delpractice1\bin\Debug\delpractice1.exe.config
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\delpractice1\delpractice1\bin\Debug\delpractice1.exe
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\delpractice1\delpractice1\bin\Debug\delpractice1.pdb
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\delpractice1\delpractice1\obj\Debug\delpractice1.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\delpractice1\delpractice1\obj\Debug\delpractice1.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\delpractice1\delpractice1\obj\Debug\delpractice1.exe
+C:\Users\mzamp\source\repos\Pragimcsharp\Delegates1\delpractice1\delpractice1\obj\Debug\delpractice1.pdb

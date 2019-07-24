@@ -1,0 +1,13 @@
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\bin\Debug\EngineerTIR.exe.config
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\bin\Debug\EngineerTIR.exe
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\bin\Debug\EngineerTIR.pdb
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\EngineerTIR.csprojAssemblyReference.cache
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\EngineerTIR.Form1.resources
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\EngineerTIR.Properties.Resources.resources
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\EngineerTIR.csproj.GenerateResource.cache
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\EngineerTIR.csproj.CoreCompileInputs.cache
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\EngineerTIR.exe
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\EngineerTIR.pdb
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\EngineerTIR.csproj.ResolveComReference.cache
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\mzamp\source\repos\EngineerTIR\EngineerTIR\obj\Debug\Interop.WordAdapterLib.dll
